@@ -1,0 +1,51 @@
+@import url(../css/null.css);
+
+h1{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   font-size: 30px;
+   font-weight: 700;
+	margin-bottom: 30px;
+}
+.margin{
+	margin-bottom: 80px;
+}
+.circle-item{
+	width: 200px;
+	height: 200px;
+	background: burlywood;
+	border-radius: 50%;
+}
+.ghost-body {
+	max-width: 800px;
+	background: cadetblue;
+	opacity: 50%;
+}
+.smooth-item{
+	background: cornflowerblue;
+	display: block;
+	max-width: 300px;
+	border: 10px solid chocolate;
+}
+.borders-item{
+	height: 250px;
+	width: 250px;
+	background: crimson;
+	border-top: 10px solid cyan;
+	border-right: 10px dashed rgb(53, 45, 14);
+	border-bottom: 10px groove darkgreen;
+	border-left: 10px ridge rgb(14, 59, 59);
+}
+.link-ghost {
+}
+.link-item {
+}
+.span {
+	
+	font-size: 30px;
+	color: rgb(126, 125, 125);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-shadow: 3px 3px 3px rebeccapurple
+}
+
+
+
